@@ -1,4 +1,5 @@
 Introduction
+
 The Live Cricket Score App is an Android application designed to provide users with real-time updates on cricket scores.<Br> 
 The app offers a seamless and intuitive user experience, allowing cricket fans to stay updated on live matches,<Br> 
 player statistics, and match schedules.
